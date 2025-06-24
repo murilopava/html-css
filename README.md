@@ -7,7 +7,7 @@ Este repositório contém todo o material, exercícios e projetos desenvolvidos 
 O curso é totalmente gratuito e aborda os fundamentos de HTML5 e CSS3, ideais para quem está iniciando no desenvolvimento web. Ao longo das aulas, são apresentados conceitos teóricos e práticos, com diversos desafios e exemplos de código.
 
 Acesse o curso completo:
-[Curso em Vídeo - HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ6e__HOoWb0CGG4vVal9x)
+[Curso em Vídeo - HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
 ## Estrutura do repositório
 
