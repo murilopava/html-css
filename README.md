@@ -13,13 +13,12 @@ Acesse o curso completo:
 
 ```
 curso-html-css/
-├── aulas/              # Códigos organizados por aula
-├── desafios/           # Exercícios e desafios propostos
+├── exercícios/         # Exercícios realizados na aula
+├── desafios/           # Desafios realizados
 ├── projetos/           # Projetos maiores desenvolvidos no curso
 └── README.md           # Documentação do repositório
 ```
 
-> Observação: Os nomes das pastas podem variar de acordo com sua organização pessoal. Sinta-se à vontade para adaptar.
 
 ## Tecnologias utilizadas
 
