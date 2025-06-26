@@ -14,7 +14,7 @@ Acesse o curso completo:
 ```
 curso-html-css/
 ├── desafios/           # Desafios realizados
-├── exercícios/         # Exercícios realizados na aula
+├── exercicios/         # Exercícios realizados na aula
 ├── projetos/           # Projetos maiores desenvolvidos no curso
 └── README.md           # Documentação do repositório
 ```
