@@ -6,7 +6,7 @@
     <title>Fontes em CSS</title>
     <style>
         body {
-            font-family: Verdana;
+            font-family: Arial, Helvetica, sans-serif;
             /*
             Medidas Absolutas
             cm, mm, in, px, pt, pc
@@ -15,6 +15,22 @@
             em, ex, rem, vw, vh, %
             */
             font-size: 1em;
+        }
+
+        h1 {
+            /* shorthand font 
+            - font-style -> font-weight -> font-size -> font-family 
+
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 200;
+            font-style: italic;
+            text-decoration: ;
+            */
+            font: italic bolder 3em sans-serif
+        }
+
+        h2 {
+            font: bold 2em serif
         }
     </style>
 </head>
