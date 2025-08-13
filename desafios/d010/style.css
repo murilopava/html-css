@@ -71,7 +71,6 @@ main {
 
 main > h1 {
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.281);
-    padding: 0px 20px;
     font-size: 2.3em;
     font-family: 'android';
     color: #1e6b3e;
@@ -80,8 +79,6 @@ main > h1 {
 main > h2 {
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.281);
     color: #1e6b3e;
-    margin-top: 0px;
-    margin-left: 20px;
     font-family: 'android';
     background-image: linear-gradient(to right, #8be9b793, rgba(255, 255, 255, 0));
     padding: 1px 12px;
