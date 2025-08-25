@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+header {
+    width: 100%;
+    padding: 50px 0px 50px 0px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    box-shadow: 1px 1px 3px black;
+}
+
+header > h1 { 
+    font-size: 10vw;
+    font-family: passion one;
+    font-variant: small-caps;
+    margin: 0px;
+}
+
+header > p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+header > p > a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.fundo {
+    display: flex;
+    flex-direction: column;
+    gap: 4vw;
+    background-color: white;
+    box-shadow: 1px 1px 5px black;
+    padding: 10vw 0px 10vw 30px;
+}
+
+.imagem {
+    box-shadow: inset 1px 3px 12px 0px black;
+    padding: 5vw 0px 5vw 30px;
+}
+
+.paragrafo{
+    font-family: sriracha;
+    margin: 0px;
+    width: 60vw;
+    line-height: 2em;
+    font-size: 3.5vw;
+    font-weight: lighter;
+}
+
+.paragrafo2{
+    font-family: sriracha;
+    width: 42vw;
+    padding: 4px;
+    margin: 0px;
+    line-height: 2em;
+    font-size: 3.5vw;
+    font-weight: lighter;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.678);
+}
+
+#img1 {
+    background: rgb(255, 255, 255) url(imagens/background001.jpg) center right / cover no-repeat fixed;
+}
+
+#img2 {
+    background: black url(imagens/background002.jpg) center center / cover no-repeat fixed;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+footer > p {
+    padding: 0px;
+    margin: 0px;
+}
+
+footer > p > a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
