@@ -35,10 +35,6 @@ html-css/
 * Layouts responsivos
 * Posicionamento, box model, flexbox, fontes, cores, entre outros
 
-## Status
-
-Em andamento — acompanhando o curso e atualizando o repositório conforme avanço.
-
 ## Créditos
 
 Curso desenvolvido por [Gustavo Guanabara](https://github.com/gustavoguanabara)
