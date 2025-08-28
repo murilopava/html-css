@@ -12,7 +12,7 @@ Acesse o curso completo:
 ## Estrutura do repositório
 
 ```
-curso-html-css/
+html-css/
 ├── desafios/           # Desafios realizados
 ├── exercicios/         # Exercícios realizados na aula
 ├── projetos/           # Projetos maiores desenvolvidos no curso
