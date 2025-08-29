@@ -12,7 +12,7 @@ Acesse o curso completo:
 ## Estrutura do repositório
 
 ```
-curso-html-css/
+html-css/
 ├── desafios/           # Desafios realizados
 ├── exercicios/         # Exercícios realizados na aula
 ├── projetos/           # Projetos maiores desenvolvidos no curso
@@ -34,10 +34,6 @@ curso-html-css/
 * Estilização com CSS interno, externo e inline
 * Layouts responsivos
 * Posicionamento, box model, flexbox, fontes, cores, entre outros
-
-## Status
-
-Em andamento — acompanhando o curso e atualizando o repositório conforme avanço.
 
 ## Créditos
 
