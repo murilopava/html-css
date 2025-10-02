@@ -9,21 +9,11 @@ O curso é totalmente gratuito e aborda os fundamentos de HTML5 e CSS3, ideais p
 Acesse o curso completo:
 [Curso em Vídeo - HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
-## Estrutura do repositório
-
-```
-html-css/
-├── desafios/           # Desafios realizados
-├── exercicios/         # Exercícios realizados na aula
-└── README.md           # Documentação do repositório
-```
-
-
 ## Tecnologias utilizadas
 
 * HTML5
 * CSS3
-* VS Code (ou outro editor de sua preferência)
+* VS Code
 * Navegador web para testes
 
 ## O que estou aprendendo
